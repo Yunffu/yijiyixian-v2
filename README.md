@@ -4,6 +4,12 @@
 > 并配套一个独立的接口自动化测试工程做**双 SUT 对照实验**。
 >
 > 原始版本存档在 [`yijiyixian`](https://github.com/Yunffu/yijiyixian)（小组共创 · 计算机设计大赛参赛作品）。
+>
+> 📅 **原作品创作完成 2026-04-25（春季）　·　本次改造自 2026-11-08 起**　｜
+> 👤 改造作者：**Yunffu**　｜　🔒 **保留所有权利，严禁商用与抄袭创意**　｜
+> 存证：[`MANIFEST.sha256`](MANIFEST.sha256) · 版权：[`LICENSE`](LICENSE)
+>
+> 校验：`sha256sum -c MANIFEST.sha256`（清单随改造里程碑重新生成）
 
 | | |
 |---|---|
